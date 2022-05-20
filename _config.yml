@@ -2,3 +2,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Embracing Arm for HPC
 description: An IEEE Cluster 2022 Workshop
+
+plugins:
+  - jekyll-paginate
+  - jekyll-include-cache
