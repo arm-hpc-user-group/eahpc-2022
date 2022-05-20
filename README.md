@@ -61,7 +61,7 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 ## Organizers
 
 * Dr. Sadaf Alam (CSCS)
-* Dr. Dirk Pleiter (KTH)
+* Prof. Dr. Dirk Pleiter (KTH)
 * Prof. Mitsuhisa Sato (RIKEN)
 * Dr. Jeffrey Young (Georgia Tech)
 
