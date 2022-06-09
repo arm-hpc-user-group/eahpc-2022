@@ -1,5 +1,5 @@
-#theme: jekyll-theme-dinky
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-dinky
+#remote_theme: mmistakes/minimal-mistakes
 title: Embracing Arm for HPC
 description: An IEEE Cluster 2022 Workshop
 
