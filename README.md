@@ -54,7 +54,7 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ### Dates
 
-**Submission Deadline**: 24th June (AoE)
+**Submission Deadline**: 30th June (AoE)
 
 **Author Notification**: July 15th (AoE)
 
