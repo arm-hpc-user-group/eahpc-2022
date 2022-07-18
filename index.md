@@ -53,9 +53,9 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ### Dates
 
-**Submission Deadline**: 24th June (AoE)
+**Submission Deadline**: 30th June (AoE)
 
-**Author Notification**: July 15th (AoE)
+**Author Notification**: July 18th (AoE)
 
 **Camera Ready**: July 29th (AoE)
 
@@ -69,7 +69,24 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ## Program Committee
 
-TBA
+- Mark Bull, The University of Edinburgh
+- Jens Domke, RIKEN R-CCS
+- Adrian Jackson, The University of Edinburgh
+- Aaron Jezghani, Georgia Tech
+- Sylvain Jubertie, Laboratoire d'Informatique Fondamentale d'Orleans
+- Yuetsu Kodama, RIKEN R-CCS
+- John Linford, NVIDIA
+- Will Lovett, Arm
+- Fabrizio Magugliani, E4
+- Filippo Mantovani, Barcelona Supercomputing Center
+- Miquel Moreto, UPC-BSC
+- Marc Perache, CEA,DAM,DIF
+- Oliver Perks, AWS
+- Lucas Pettey, Arm
+- Roxana Rusitoru, Arm
+- Eva Siegmann, Stonybrook
+- Nathan Sircombe, Arm
+- Michele Weiland, The University of Edinburgh
 
 ### Contact
 Jeff Young (jyoung9@gatech.edu)
