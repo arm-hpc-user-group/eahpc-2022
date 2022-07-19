@@ -57,7 +57,7 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 **Author Notification**: July 18th (AoE)
 
-**Camera Ready**: July 29th (AoE)
+**Camera Ready**: July 25th (AoE)
 
 ## Organizers
 
