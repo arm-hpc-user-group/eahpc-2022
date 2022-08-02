@@ -78,24 +78,24 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ## Program Committee
 
-Mark Bull, _The University of Edinburgh_
-Jens Domke, _RIKEN R-CCS_
-Adrian Jackson, _The University of Edinburgh_
-Aaron Jezghani, _Georgia Tech_
-Sylvain Jubertie, _Laboratoire d’Informatique Fondamentale d’Orleans_
-Yuetsu Kodama, _RIKEN R-CCS_
-John Linford, _NVIDIA_
-Will Lovett, _Arm_
-Fabrizio Magugliani,_ E4_
-Filippo Mantovani, _Barcelona Supercomputing Center_
-Miquel Moreto, _UPC-BSC_
-Marc Perache, _CEA,DAM,DIF_
-Oliver Perks, _AWS_
-Lucas Pettey, _Arm_
-Roxana Rusitoru, _Arm_
-Eva Siegmann, _Stonybrook_
-Nathan Sircombe, _Arm_
-Michele Weiland, _The University of Edinburgh_
+- Mark Bull, _The University of Edinburgh_
+- Jens Domke, _RIKEN R-CCS_
+- Adrian Jackson, _The University of Edinburgh_
+- Aaron Jezghani, _Georgia Tech_
+- Sylvain Jubertie, _Laboratoire d’Informatique Fondamentale d’Orleans_
+- Yuetsu Kodama, _RIKEN R-CCS_
+- John Linford, _NVIDIA_
+- Will Lovett, _Arm_
+- Fabrizio Magugliani,_ E4_
+- Filippo Mantovani, _Barcelona Supercomputing Center_
+- Miquel Moreto, _UPC-BSC_
+- Marc Perache, _CEA,DAM,DIF_
+- Oliver Perks, _AWS_
+- Lucas Pettey, _Arm_
+- Roxana Rusitoru, _Arm_
+- Eva Siegmann, _Stonybrook_
+- Nathan Sircombe, _Arm_
+- Michele Weiland, _The University of Edinburgh_
 
 ### Contact
 Jeff Young (jyoung9@gatech.edu)
