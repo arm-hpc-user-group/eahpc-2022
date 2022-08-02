@@ -8,9 +8,17 @@ Please register for [IEEE Cluster here](https://clustercomp.org/2022/registratio
 
 ## Event agenda
 
-EAHPC-2022 will be running as a live event sometime between September 6th and 9th. More information will be shared as the event gets closer. 
+Please check back for the full agenda with times. 
 
-## Paper Submissions 
+| Accepted Paper Title                                         | Authors                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Productivity  meets Performance: Julia on A64FX              | Mosè Giordano, Milan Klöwer and  Valentin Churavy            |
+| Performance  analysis of a state vector quantum circuit simulation on A64FX processor | Miwako Tsuji, Mitsuhisa Sato                                 |
+| Performance  of an Astrophysical Radiation Hydrodynamics Code under Scalable Vector  Extension Optimization | Dennis Smolarski, Douglas Swesty  and Alan Calder            |
+| On  Using Linux Kernel Huge Pages with FLASH, an Astrophysical Simulation Code | Alan Calder, Catherine Feldman,  Eva Siegmann, John Dey, Anthony Curtis, Smeet Chheda and Robert Harrison |
+| Assessing  the State of Autovectorization Support based on SVE | Bine Brank and Dirk Pleiter                                  |
+
+## Paper Submissions (CLOSED)
 
 Submissions via EasyChair [EAHPC-2022](https://easychair.org/conferences/?conf=eahpc2022).
 
@@ -40,7 +48,7 @@ This workshop is the third iteration of EAHPC and is a proceedings-based worksho
 * Performance Modeling & Measurement
 * Emerging Technologies
 
-## Submission
+## Submission (CLOSED)
 
 
 Submissions will be taken through EasyChair at the following link: [EAHPC-2022](https://easychair.org/conferences/?conf=eahpc2022).
@@ -58,7 +66,7 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 **Author Notification**: July 15th (AoE)
 
-**Camera Ready**: July 25th (AoE)
+**Camera Ready**: July 31st (AoE)
 
 ## Organizers
 
@@ -70,7 +78,24 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ## Program Committee
 
-TBA
+Mark Bull, _The University of Edinburgh_
+Jens Domke, _RIKEN R-CCS_
+Adrian Jackson, _The University of Edinburgh_
+Aaron Jezghani, _Georgia Tech_
+Sylvain Jubertie, _Laboratoire d’Informatique Fondamentale d’Orleans_
+Yuetsu Kodama, _RIKEN R-CCS_
+John Linford, _NVIDIA_
+Will Lovett, _Arm_
+Fabrizio Magugliani,_ E4_
+Filippo Mantovani, _Barcelona Supercomputing Center_
+Miquel Moreto, _UPC-BSC_
+Marc Perache, _CEA,DAM,DIF_
+Oliver Perks, _AWS_
+Lucas Pettey, _Arm_
+Roxana Rusitoru, _Arm_
+Eva Siegmann, _Stonybrook_
+Nathan Sircombe, _Arm_
+Michele Weiland, _The University of Edinburgh_
 
 ### Contact
 Jeff Young (jyoung9@gatech.edu)
