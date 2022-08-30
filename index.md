@@ -1,7 +1,5 @@
 ## EAHPC-2022 - Embracing Arm for High Performance Computing Workshop
 
-Please see the webpage version of this site [here](https://arm-hpc-user-group.github.io/eahpc-2022/).
-
 # Registration
 
 Please register for [IEEE Cluster here](https://clustercomp.org/2022/registration/) to join the EA-HPC workshop event on September 6th. 
