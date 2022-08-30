@@ -1,21 +1,31 @@
 ## EAHPC-2022 - Embracing Arm for High Performance Computing Workshop
 
+Please see the webpage version of this site [here](https://arm-hpc-user-group.github.io/eahpc-2022/).
 
 # Registration
 
-Please register for [IEEE Cluster here](https://clustercomp.org/2022/registration/) to join the EA-HPC workshop event on September 6-9. We anticipate that this event will be held in person. 
+Please register for [IEEE Cluster here](https://clustercomp.org/2022/registration/) to join the EA-HPC workshop event on September 6th. 
 
 ## Event agenda
 
-EAHPC-2022 will be running as a live event sometime between September 6th and 9th. More information will be shared as the event gets closer. 
+EAHPC 2022 will be held on Tuesday, September 6th, 2022 from 9:15 AM to 12:30 PM local time (UTC+2).
 
-## Paper Submissions 
+| Time     | Presenter        | Paper Title                                                  | Authors                                                      |
+| -------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 9:15 AM  | Jeffrey Young    | EAHPC Introduction                                           | -                                                            |
+| 9:20 AM  | Miwako Tsuji     | Performance  analysis of a state vector quantum circuit simulation on A64FX processor | Miwako Tsuji, Mitsuhisa Sato                                 |
+| 9:50 AM  | Valentin Churavy | Productivity  meets Performance: Julia on A64FX              | Mosè Giordano, Milan Klöwer and  Valentin Churavy            |
+| 10:20 AM |                  | **Workshop coffee break**                                    |                                                              |
+| 11:00 AM | Dennis Smolarski | Performance  of an Astrophysical Radiation Hydrodynamics Code under Scalable Vector  Extension Optimization | Dennis Smolarski, Douglas Swesty  and Alan Calder            |
+| 11:30 AM | Dirk Pleiter     | Assessing  the State of Autovectorization Support based on SVE | Bine Brank and Dirk Pleiter                                  |
+| 12:00 PM | Alan Calder      | On  Using Linux Kernel Huge Pages with FLASH, an Astrophysical Simulation Code | Alan Calder, Catherine Feldman,  Eva Siegmann, John Dey, Anthony Curtis, Smeet Chheda and Robert Harrison |
+| 12:30    |                  | **Workshop end**                                             |                                                              |
+
+## Paper Submissions (CLOSED)
 
 Submissions via EasyChair [EAHPC-2022](https://easychair.org/conferences/?conf=eahpc2022).
 
 As part of the [IEEE Cluster 2022](https://clustercomp.org/2022/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
-
-The IEEE Cluster conference will be hosted this year between the 6th and 9th of September. Right now we anticipate for this to be a live event.
 
 ### Abstract
 This workshop focuses on the porting and optimization of scientific and high-performance workloads to the Arm architecture. The last few years have seen an explosion of 64-bit Arm based processors targeted towards server and infrastructure workloads – often with a specialization towards a specific domain – such as HPC, cloud and machine learning.
@@ -39,7 +49,7 @@ This workshop is the third iteration of EAHPC and is a proceedings-based worksho
 * Performance Modeling & Measurement
 * Emerging Technologies
 
-## Submission
+## Submission (CLOSED)
 
 
 Submissions will be taken through EasyChair at the following link: [EAHPC-2022](https://easychair.org/conferences/?conf=eahpc2022).
@@ -55,9 +65,9 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 **Submission Deadline**: 30th June (AoE)
 
-**Author Notification**: July 18th (AoE)
+**Author Notification**: July 15th (AoE)
 
-**Camera Ready**: July 25th (AoE)
+**Camera Ready**: July 31st (AoE)
 
 ## Organizers
 
@@ -69,24 +79,24 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ## Program Committee
 
-- Mark Bull, The University of Edinburgh
-- Jens Domke, RIKEN R-CCS
-- Adrian Jackson, The University of Edinburgh
-- Aaron Jezghani, Georgia Tech
-- Sylvain Jubertie, Laboratoire d'Informatique Fondamentale d'Orleans
-- Yuetsu Kodama, RIKEN R-CCS
-- John Linford, NVIDIA
-- Will Lovett, Arm
-- Fabrizio Magugliani, E4
-- Filippo Mantovani, Barcelona Supercomputing Center
-- Miquel Moreto, UPC-BSC
-- Marc Perache, CEA,DAM,DIF
-- Oliver Perks, AWS
-- Lucas Pettey, Arm
-- Roxana Rusitoru, Arm
-- Eva Siegmann, Stonybrook
-- Nathan Sircombe, Arm
-- Michele Weiland, The University of Edinburgh
+- Mark Bull, _The University of Edinburgh_
+- Jens Domke, _RIKEN R-CCS_
+- Adrian Jackson, _The University of Edinburgh_
+- Aaron Jezghani, _Georgia Tech_
+- Sylvain Jubertie, _Laboratoire d’Informatique Fondamentale d’Orleans_
+- Yuetsu Kodama, _RIKEN R-CCS_
+- John Linford, _NVIDIA_
+- Will Lovett, _Arm_
+- Fabrizio Magugliani,_ E4_
+- Filippo Mantovani, _Barcelona Supercomputing Center_
+- Miquel Moreto, _UPC-BSC_
+- Marc Perache, _CEA,DAM,DIF_
+- Oliver Perks, _AWS_
+- Lucas Pettey, _Arm_
+- Roxana Rusitoru, _Arm_
+- Eva Siegmann, _Stonybrook_
+- Nathan Sircombe, _Arm_
+- Michele Weiland, _The University of Edinburgh_
 
 ### Contact
 Jeff Young (jyoung9@gatech.edu)
