@@ -2,7 +2,7 @@
 
 # Registration
 
-Please register for [IEEE Cluster here](https://clustercomp.org/2022/registration/) to join the EA-HPC workshop event on September 6th. 
+Please register for [IEEE CLUSTER here](https://clustercomp.org/2022/registration/) to join the EA-HPC workshop event on September 6th. At the moment, this is a live event with no hybrid option. We will update if we receive guidance from CLUSTER organizers on providing some hybrid participation option.
 
 ## Event agenda
 
