@@ -1,22 +1,18 @@
 ## EAHPC-2022 - Embracing Arm for High Performance Computing Workshop
 
-# Registration
-
-Please register for [IEEE CLUSTER here](https://clustercomp.org/2022/registration/) to join the EA-HPC workshop event on September 6th. At the moment, this is a live event with no hybrid option. We will update if we receive guidance from CLUSTER organizers on providing some hybrid participation option.
-
 ## Event agenda
 
-EAHPC 2022 will be held on Tuesday, September 6th, 2022 from 9:15 AM to 12:30 PM local time (UTC+2).
+EAHPC 2022 was held on Tuesday, September 6th, 2022 from 9:15 AM to 12:30 PM local time (UTC+2). Please see the agenda below for presentation slides and preprint links. The link to the official IEEE proceedings for this workshop will be posted once they are made publicly available.
 
 | Time     | Presenter        | Paper Title                                                  | Authors                                                      |
 | -------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 9:15 AM  | Jeffrey Young    | EAHPC Introduction                                           | -                                                            |
 | 9:20 AM  | Miwako Tsuji     | Performance  analysis of a state vector quantum circuit simulation on A64FX processor | Miwako Tsuji, Mitsuhisa Sato                                 |
-| 9:50 AM  | Valentin Churavy | Productivity  meets Performance: Julia on A64FX              | Mosè Giordano, Milan Klöwer and  Valentin Churavy            |
+| 9:50 AM  | Valentin Churavy | Productivity  meets Performance: Julia on A64FX [ArXiv Preprint](https://arxiv.org/abs/2207.12762) [Slides](https://github.com/arm-hpc-user-group/eahpc-2022/blob/f600a623f6d280a5741657127b9b381aab30e6ba/presentations/02_churavy_et_al_productivity_performance_a64fx_eahpc_2022.pdf)             | Mosè Giordano, Milan Klöwer and  Valentin Churavy            |
 | 10:20 AM |                  | **Workshop coffee break**                                    |                                                              |
-| 11:00 AM | Dennis Smolarski | Performance  of an Astrophysical Radiation Hydrodynamics Code under Scalable Vector  Extension Optimization | Dennis Smolarski, Douglas Swesty  and Alan Calder            |
-| 11:30 AM | Dirk Pleiter     | Assessing  the State of Autovectorization Support based on SVE | Bine Brank and Dirk Pleiter                                  |
-| 12:00 PM | Alan Calder      | On  Using Linux Kernel Huge Pages with FLASH, an Astrophysical Simulation Code | Alan Calder, Catherine Feldman,  Eva Siegmann, John Dey, Anthony Curtis, Smeet Chheda and Robert Harrison |
+| 11:00 AM | Dennis Smolarski | Performance  of an Astrophysical Radiation Hydrodynamics Code under Scalable Vector Extension Optimization [ArXiv Preprint](https://arxiv.org/abs/2207.13251) [Slides]() | Dennis Smolarski, Douglas Swesty  and Alan Calder            |
+| 11:30 AM | Dirk Pleiter     | Assessing  the State of Autovectorization Support based on SVE [Slides]() | Bine Brank and Dirk Pleiter                                  |
+| 12:00 PM | Alan Calder      | On Using Linux Kernel Huge Pages with FLASH, an Astrophysical Simulation Code [ArXiv Preprint](https://arxiv.org/abs/2207.13685) [Slides]() | Alan Calder, Catherine Feldman,  Eva Siegmann, John Dey, Anthony Curtis, Smeet Chheda and Robert Harrison |
 | 12:30    |                  | **Workshop end**                                             |                                                              |
 
 ## Paper Submissions (CLOSED)
