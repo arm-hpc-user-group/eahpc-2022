@@ -15,12 +15,6 @@ EAHPC 2022 was held on Tuesday, September 6th, 2022 from 9:15 AM to 12:30 PM loc
 | 12:00 PM | Alan Calder      | On Using Linux Kernel Huge Pages with FLASH, an Astrophysical Simulation Code [[Preprint](https://arxiv.org/abs/2207.13685)] [[Slides](https://github.com/arm-hpc-user-group/eahpc-2022/blob/11d031b3e9ccb6c4a25fff768fc332098b7ba6fd/presentations/05_calder_linux_huge_pages_flash_eahpc_2022.pdf)] | Alan Calder, Catherine Feldman,  Eva Siegmann, John Dey, Anthony Curtis, Smeet Chheda and Robert Harrison |
 | 12:30    |                  | **Workshop end**                                             |                                                              |
 
-## Paper Submissions (CLOSED)
-
-Submissions via EasyChair [EAHPC-2022](https://easychair.org/conferences/?conf=eahpc2022).
-
-As part of the [IEEE Cluster 2022](https://clustercomp.org/2022/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
-
 ### Abstract
 This workshop focuses on the porting and optimization of scientific and high-performance workloads to the Arm architecture. The last few years have seen an explosion of 64-bit Arm based processors targeted towards server and infrastructure workloads – often with a specialization towards a specific domain – such as HPC, cloud and machine learning.
 
@@ -44,7 +38,6 @@ This workshop is the third iteration of EAHPC and is a proceedings-based worksho
 * Emerging Technologies
 
 ## Submission (CLOSED)
-
 
 Submissions will be taken through EasyChair at the following link: [EAHPC-2022](https://easychair.org/conferences/?conf=eahpc2022).
 
@@ -70,7 +63,6 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 * Prof. Mitsuhisa Sato (RIKEN)
 * Dr. Jeffrey Young (Georgia Tech)
 
-
 ## Program Committee
 
 - Mark Bull, _The University of Edinburgh_
@@ -91,6 +83,3 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 - Eva Siegmann, _Stonybrook_
 - Nathan Sircombe, _Arm_
 - Michele Weiland, _The University of Edinburgh_
-
-### Contact
-Jeff Young (jyoung9@gatech.edu)
